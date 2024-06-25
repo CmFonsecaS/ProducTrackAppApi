@@ -1,0 +1,28 @@
+
+.page-not-found {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Ajusta la altura según sea necesario */
+
+  .icon-container {
+    margin-bottom: 20px; /* Espacio entre el ícono y el título */
+  }
+
+  .error-icon {
+    font-size: 10rem; /* Tamaño del ícono */
+    color: var(--ion-color-danger); /* Color del ícono */
+  }
+
+  h1 {
+    font-size: 5rem; /* Tamaño del título */
+    margin-bottom: 5px; /* Espacio entre el título y el párrafo */
+    color: var(--ion-color-danger);
+  }
+
+  p {
+    font-size: 1rem; /* Tamaño del texto */
+    color: white; /* Color del texto */
+  }
+}
