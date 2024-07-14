@@ -1,18 +1,40 @@
-Compartiendo mi primera App.
-ProducTrack
+ProducTrack EFT
 “App sencilla y directa de seguimiento de productos”
 
-Link video de presentación: https://drive.google.com/file/d/1EVANySSvRW9BBQvT8PnVoebnwWeahHqE/view?usp=sharing
+Link video de presentación: [https://drive.google.com/file/d/1EVANySSvRW9BBQvT8PnVoebnwWeahHqE/view?usp=sharing](https://drive.google.com/file/d/12m1DZlt9EW9GTh1msOWbC6HcABBypr9g/view?usp=sharing)
 
-![Snag_411bc9](https://github.com/CmFonsecaS/ProducTrackAppApi/assets/106397512/da03b351-47f7-4da8-8670-8c00f3dfcbf9)
-![Snag_415a97](https://github.com/CmFonsecaS/ProducTrackAppApi/assets/106397512/b9b9bebd-d3c1-41f5-8586-bba8cd5ed479)
-![Snag_41a348](https://github.com/CmFonsecaS/ProducTrackAppApi/assets/106397512/2073c72d-fa5f-4f56-9ecf-c349b5e5b701)
-![Snag_41f3aa](https://github.com/CmFonsecaS/ProducTrackAppApi/assets/106397512/e460418e-5ceb-4c94-aed1-026e54b0e57f)
-![Snag_437633](https://github.com/CmFonsecaS/ProducTrackAppApi/assets/106397512/8cf3ec5e-3c99-45e7-8e1f-df13f10e7915)
-![Snag_43d868](https://github.com/CmFonsecaS/ProducTrackAppApi/assets/106397512/3f08c7ee-0bfe-4b4f-bfd0-8e581498d730)
-![Snag_4421d5](https://github.com/CmFonsecaS/ProducTrackAppApi/assets/106397512/8c0977ef-07a5-4aef-b170-4f661388c15b)
-![Snag_44cd57](https://github.com/CmFonsecaS/ProducTrackAppApi/assets/106397512/34f729c6-fe7e-4ef3-8e37-222adeb685aa)
+Link ppt EFT: https://drive.google.com/file/d/12m1DZlt9EW9GTh1msOWbC6HcABBypr9g/view?usp=sharing
 
 
- 
+![image](https://github.com/user-attachments/assets/8615db47-6007-48a0-afae-570641efe94e)
+
+![image](https://github.com/user-attachments/assets/d02ced83-828b-4a92-8e49-70439b74f6b4)
+
+![image](https://github.com/user-attachments/assets/a0bb7c2a-3f11-435b-b36a-73c80c70c31f)
+
+![image](https://github.com/user-attachments/assets/53029e7b-d4d6-45be-ae3b-80bce6bac13a)
+
+![image](https://github.com/user-attachments/assets/4c471bd4-2502-4e68-836c-095d1d06b2f2)
+
+![image](https://github.com/user-attachments/assets/93307615-6489-48c2-a3f2-d611fc29811e)
+
+![image](https://github.com/user-attachments/assets/52f529c1-cde5-47a7-9c96-faad08990fd9)
+
+![image](https://github.com/user-attachments/assets/9e6030a2-40fa-4b06-aaed-89752f8fd584)
+
+![image](https://github.com/user-attachments/assets/0e663073-6bd8-44cc-9d51-eb82fff77bf9)
+
+![image](https://github.com/user-attachments/assets/4ca71fec-98d8-4599-9092-6e41670fc985)
+
+![image](https://github.com/user-attachments/assets/e032b74a-c235-4cb0-8ce7-73ef5264fd7d)
+
+![image](https://github.com/user-attachments/assets/969ebd7d-aa7b-48cb-9cbf-98b8f67d471d)
+
+![image](https://github.com/user-attachments/assets/cdc01f34-c3fe-42e5-ad06-369ef41493fa)
+
+![image](https://github.com/user-attachments/assets/f416a977-e27c-4ad5-9dbc-dd86769cc628)
+
+![image](https://github.com/user-attachments/assets/6db2ad53-09dd-4b2e-9a75-071f5e78c2e1)
+
+
 
