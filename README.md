@@ -3,7 +3,7 @@ ProducTrack EFT
 
 Link video de presentación: [https://drive.google.com/file/d/1EVANySSvRW9BBQvT8PnVoebnwWeahHqE/view?usp=sharing](https://drive.google.com/file/d/12m1DZlt9EW9GTh1msOWbC6HcABBypr9g/view?usp=sharing)
 
-Link ppt EFT: https://drive.google.com/file/d/12m1DZlt9EW9GTh1msOWbC6HcABBypr9g/view?usp=sharing
+Link ppt EFT: [https://drive.google.com/file/d/12m1DZlt9EW9GTh1msOWbC6HcABBypr9g/view?usp=sharing](https://docs.google.com/presentation/d/1Z-l_LOwZpUZjQOaZRqh6IVBbeq3xE-Pa/edit?usp=sharing&ouid=116812499718157918269&rtpof=true&sd=true)
 
 
 ![image](https://github.com/user-attachments/assets/8615db47-6007-48a0-afae-570641efe94e)
